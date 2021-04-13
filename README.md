@@ -1,1 +1,1 @@
-# Lab-Text
+[![Build Status](https://travis-ci.org/bloodreina5/Lab-Text.svg?branch=main)](https://travis-ci.org/bloodreina5/Lab-Text)
